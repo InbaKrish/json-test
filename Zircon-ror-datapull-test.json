@@ -1,6 +1,6 @@
 [	
 	{
-		"tag": "RORUpgrade7-2",
+		"tag": "RORUpgrade7-1",
 		"heading": "",
 		"address": "1234-ZirconRORdatapull",
 		"rent":12314,
@@ -9,7 +9,7 @@
 		"pets": "True",
 		"size": 1486,
 		"images": [],
-		"lockbox": "12012094",
+		"lockbox": "97194",
 		"lockbox_instruction": "Front door or  meter",
 		"prelease": false,
 		"active": true
